@@ -1,4 +1,4 @@
-#### ``` Discord Bot] ``` The Row Project
+#### ``` [Discord Bot] ``` The Row Project
 ___
 
 #### Özellikler:
